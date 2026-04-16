@@ -1,19 +1,41 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=32&center=true&vCenter=true&width=800&lines=Hello;I'm+Sebastian;Junior+Software+Developer)
+<h1 align="center">👋 Hi, I'm Sebastian</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&background=0D1117&size=18&font=Courier+New&width=700&height=200&lines=sebastian@dev:~$+cat+skills.json;{;"languages":+["Java","JavaScript","SQL"],;"frameworks":+["Spring+Boot","React","Node.js"],;"tools":+["Git","Maven","REST+APIs"];})
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Software+Developer;Java+%7C+Spring+Boot+%7C+Web+Development;Building+real-world+projects" />
+</p>
 
-💻 Junior Software Developer  
-🎓 Computer Science Graduate
-📍 Pittsburgh, PA
+<h2 align="center">🧠 About Me</h2>
 
----
+<p align="center">
+I’m a junior developer who enjoys building real-world applications and figuring out how things work under the hood.
+</p>
 
-## 🚀 About Me
-I’m a junior developer focused on building real-world applications and learning modern development tools.
+<p align="center">
+Most of my experience is with Java, Spring Boot, and SQL, where I’ve built projects focused on backend logic, APIs, authentication, and working with databases. I like taking an idea and turning it into something functional and usable.
+</p>
 
----
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## 🛠 Tech Stack
-Java • Spring Boot • JavaScript • SQL • Git  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,mysql,git,maven" />
+</p>
 
----
+<h2 align="center">📫 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebastian-kline-77ba90248/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:SebastianKline3@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+<h2 align="center">📄 Resume</h2>
+
+<p align="center">
+  <a href="https://github.com/sebastian-kline/sebastian-kline/raw/main/Sebastian_Kline_Resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-58A6FF?style=for-the-badge" />
+  </a>
+</p>
