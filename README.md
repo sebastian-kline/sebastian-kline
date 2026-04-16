@@ -36,6 +36,6 @@ Most of my experience is with Java, Spring Boot, and SQL, where I’ve built pro
 
 <p align="center">
   <a href="https://github.com/sebastian-kline/sebastian-kline/raw/main/Sebastian_Kline_Resume.pdf">
-    <img src="https://img.shields.io/badge/View%20Resume-58A6FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Download%20Resume%20Here-58A6FF?style=for-the-badge" />
   </a>
 </p>
