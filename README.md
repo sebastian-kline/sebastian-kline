@@ -17,7 +17,7 @@ Most of my experience is with Java, Spring Boot, and SQL, where I’ve built pro
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,react,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,react,mysql,git,html,css" />
 </p>
 
 <h2 align="center">📫 Connect With Me</h2>
