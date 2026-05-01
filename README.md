@@ -7,7 +7,7 @@
 <h2 align="center">🧠 About Me</h2>
 
 <p align="center">
-I’m a junior developer who enjoys building real-world applications and figuring out how things work under the hood.
+I’m a junior software engineer who enjoys building real-world applications and figuring out how things work under the hood.
 </p>
 
 <p align="center">
