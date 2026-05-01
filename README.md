@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Sebastian</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Software+Developer;Java+%7C+Spring+Boot+%7C+Web+Development;Building+real-world+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Software+Engineer;Java+%7C+Spring+Boot+%7C+Web+Development;Building+real-world+projects" />
 </p>
 
 <h2 align="center">🧠 About Me</h2>
