@@ -35,7 +35,7 @@ Most of my experience is with Java, Spring Boot, and SQL, where I’ve built pro
 <h2 align="center">📄 Resume</h2>
 
 <p align="center">
-  <a href="https://github.com/sebastian-kline/sebastian-kline/raw/main/Sebastian_Kline_Resume.pdf">
+  <a href="https://github.com/sebastian-kline/sebastian-kline/raw/main/Sebastian Kline Resume.pdf">
     <img src="https://img.shields.io/badge/Download%20My%20Resume%20Here-58A6FF?style=for-the-badge" />
   </a>
 </p>
