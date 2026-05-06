@@ -23,7 +23,7 @@ Most of my experience is with Java, Spring Boot, and SQL, where I’ve built pro
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-kline-77ba90248/" target="_blank">
+  <a href="https://www.linkedin.com/in/sebastiankline/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
